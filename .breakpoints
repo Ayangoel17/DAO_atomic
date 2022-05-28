@@ -1,0 +1,20 @@
+{
+  "files": {
+    "scripts/1-initialize-sdk.js": [
+      {
+        "id": "af51841e-fbcd-4fa0-ac8e-fb4df9f76609",
+        "line": 13,
+        "version": 1,
+        "index": 392
+      }
+    ],
+    "scripts/6-print-money.js": [
+      {
+        "id": "c58cf20a-44fe-4e7b-a74b-67b514917e63",
+        "line": 14,
+        "version": 1,
+        "index": 477
+      }
+    ]
+  }
+}
